@@ -1,0 +1,14 @@
+vunit_out/
+.vscode/
+.Xil/
+*.out
+*.bin
+*.gtkw
+*log
+*.jou
+*.bin
+*.o
+**/build/*
+compile_commands.json
+.cache/
+**/__pycache__/*
